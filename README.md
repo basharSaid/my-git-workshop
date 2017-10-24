@@ -16,6 +16,7 @@ like GitHub too, format nicely as HTML.
 What does Git do when initialising a local repository?
 
 * Ich bin hier 
+wir haben 
 
 
 ### Saving my changes
