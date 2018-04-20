@@ -1,3 +1,6 @@
+~~This was mistaken text~~
+
+
 # Git for Powercoders
 
 *Usage:* This is your work sheet. Change it in any way you want (as long as you can answer the goals), 
