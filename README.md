@@ -1,4 +1,14 @@
+
+
+In the words of Abraham Lincoln:
+
+> Pardon my French
+
 ~~This was mistaken text~~
+
+100. First list item
+     - First nested list item
+       - Second nested list item
 
 
 # Git for Powercoders
